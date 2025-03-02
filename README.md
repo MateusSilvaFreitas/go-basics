@@ -1,4 +1,4 @@
-#Learning Go Fundamentals
+#Learning Go Fundamentals#
 
 Welcome to my journey of learning the fundamentals of Go! This repository contains my notes, exercises, and small projects as I explore the Go programming language.
 
