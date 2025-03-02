@@ -5,10 +5,14 @@ Welcome to my journey of learning the fundamentals of Go! This repository contai
 Why Learn Go?
 
 Go is a powerful, efficient, and easy-to-learn programming language developed by Google. It is widely used for backend development, cloud services, and high-performance applications. Some key features of Go include:
-  -Simple and clean syntax
-  -Strong concurrency support with goroutines
-  -Efficient garbage collection
-  -Statically typed with powerful standard libraries
+  
+Simple and clean syntax
+
+Strong concurrency support with goroutines
+
+Efficient garbage collection
+
+Statically typed with powerful standard libraries
 
 📌 Topics Covered
 
