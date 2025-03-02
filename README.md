@@ -19,12 +19,19 @@ Statically typed with powerful standard libraries
 Here are some of the fundamental topics I am learning:
 
 ✅ Installing and setting up Go
+
 ✅ Basic syntax and data types
+
 ✅ Control structures (loops, conditionals, etc.)
+
 ✅ Functions and methods
+
 ✅ Structs and interfaces
+
 ✅ Concurrency with goroutines and channels
+
 ✅ Error handling
+
 
 📂 How to Use This Repository
 Feel free to explore the code samples and exercises as I progress in my learning. If you're also learning Go, you might find these notes helpful!
