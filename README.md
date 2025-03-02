@@ -1,8 +1,8 @@
-#Learning Go Fundamentals#
+Learning Go Fundamentals
 
 Welcome to my journey of learning the fundamentals of Go! This repository contains my notes, exercises, and small projects as I explore the Go programming language.
 
-#Why Learn Go?
+Why Learn Go?
 
 Go is a powerful, efficient, and easy-to-learn programming language developed by Google. It is widely used for backend development, cloud services, and high-performance applications. Some key features of Go include:
   -Simple and clean syntax
@@ -10,7 +10,7 @@ Go is a powerful, efficient, and easy-to-learn programming language developed by
   -Efficient garbage collection
   -Statically typed with powerful standard libraries
 
-#📌 Topics Covered
+📌 Topics Covered
 
 Here are some of the fundamental topics I am learning:
 
@@ -22,7 +22,7 @@ Here are some of the fundamental topics I am learning:
 ✅ Concurrency with goroutines and channels
 ✅ Error handling
 
-#📂 How to Use This Repository
+📂 How to Use This Repository
 Feel free to explore the code samples and exercises as I progress in my learning. If you're also learning Go, you might find these notes helpful!
 
 💬 Feedback
